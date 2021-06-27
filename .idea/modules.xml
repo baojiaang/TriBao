@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Deep-Packet-master/.idea/Deep-Packet-master.iml" filepath="$PROJECT_DIR$/../Deep-Packet-master/.idea/Deep-Packet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TriBao.iml" filepath="$PROJECT_DIR$/.idea/TriBao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../siamese-triplet/.idea/siamese-triplet.iml" filepath="$PROJECT_DIR$/../siamese-triplet/.idea/siamese-triplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tensorflow-triplet-loss/.idea/tensorflow-triplet-loss.iml" filepath="$PROJECT_DIR$/../tensorflow-triplet-loss/.idea/tensorflow-triplet-loss.iml" />
+    </modules>
+  </component>
+</project>
